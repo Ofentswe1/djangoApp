@@ -1,3 +1,3 @@
 # Project Name : Leaderboard score djangoApp
 Simple Django Application       
-* More details are commint :octocat:
+* More details are comming :octocat:
